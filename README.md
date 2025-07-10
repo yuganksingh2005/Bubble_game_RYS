@@ -1,4 +1,17 @@
-# Bubble-Game-JS
-Create a Bubble game using Html Css and Javascript for fun purpose &amp; Coding Practice
-cone the project using git clone
-and open bubb.html file and enjoy if you want to add some extra features use bubb.js file 
+# 🎯 Bubble Number Hit Game
+
+A simple and fun browser-based game where players must click the correct number from a group of floating bubbles before the timer runs out!
+
+## 🕹️ Game Description
+
+The Bubble Number Hit Game challenges the player to hit (click) the bubble that contains the **target number**. The game tests speed, accuracy, and focus. Each correct hit increases the score, and a new target number appears.
+
+---
+
+## 🚀 Features
+
+- 🧼 Clean and interactive UI built with HTML and CSS
+- 🎯 Random bubble generation with numbers
+- ⏱️ Countdown timer
+- 💯 Real-time score tracking
+- 📱 Responsive design for mobile and desktop
